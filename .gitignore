@@ -1,0 +1,11 @@
+/data/
+venv/
+venv-linux/
+s3.yaml
+*.pyc
+/weights/
+/runs/
+*.zip
+/runs-vast/
+/runs-fractal/
+/outs/
